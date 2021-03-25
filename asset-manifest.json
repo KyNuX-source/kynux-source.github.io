@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94fc3692.chunk.css",
+    "main.js": "/static/js/main.961cae58.chunk.js",
+    "main.js.map": "/static/js/main.961cae58.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3117f76e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3117f76e.js.map",
+    "static/js/2.7fa7bd47.chunk.js": "/static/js/2.7fa7bd47.chunk.js",
+    "static/js/2.7fa7bd47.chunk.js.map": "/static/js/2.7fa7bd47.chunk.js.map",
+    "static/js/3.8e4c54ef.chunk.js": "/static/js/3.8e4c54ef.chunk.js",
+    "static/js/3.8e4c54ef.chunk.js.map": "/static/js/3.8e4c54ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94fc3692.chunk.css.map": "/static/css/main.94fc3692.chunk.css.map",
+    "static/js/2.7fa7bd47.chunk.js.LICENSE.txt": "/static/js/2.7fa7bd47.chunk.js.LICENSE.txt",
+    "static/media/kynuxlogo.3f76f5bc.png": "/static/media/kynuxlogo.3f76f5bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3117f76e.js",
+    "static/js/2.7fa7bd47.chunk.js",
+    "static/css/main.94fc3692.chunk.css",
+    "static/js/main.961cae58.chunk.js"
+  ]
+}
